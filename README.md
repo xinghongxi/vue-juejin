@@ -8,7 +8,7 @@
 
 ### 商铺筛选页
 <!--
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/> -->
+<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png"  height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/> -->
 
 
 # 掘金网移动端项目设计文档
