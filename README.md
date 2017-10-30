@@ -1,37 +1,3 @@
-# 产品部分截图
-
-
-### 首页加载
-
-<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/home.png" width="365" height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/home.gif" height="619"/>
-
-
-### 登录|注册
-
-<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.gif"  height="619"/>
-
-### 子路由|登出
-
-<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/child%20route.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/child%20route.gif"  height="619"/>
-
-
-## 项目运行
-
-```
-git clone https://github.com/xinghongxi/vue-juejin.git
-
-创建Mysql数据库名：vue-jj 导入数据表
-
-cd vue/
-
-npm run dev
-
-打开新的终端窗口 cd service/
-
-npm start
-
-```
-
 # 掘金网移动端项目设计文档
 
 项目名称：掘金网（移动端）应用的基础功能实现
@@ -253,6 +219,44 @@ npm start
 *  jQuery：dom操作前端页面
 *  WebPack：监听前端页面
 
+## 项目运行
+
+```
+git clone https://github.com/xinghongxi/vue-juejin.git
+
+创建Mysql数据库名：vue-jj 导入数据表
+
+cd vue/
+
+npm run dev
+
+打开新的终端窗口 cd service/
+
+npm start
+
+```
+
+
+
+
+
+# 产品部分截图
+
+
+### 首页加载
+
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/home.png" width="365" height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/home.gif" height="619"/>
+
+
+### 登录|注册
+
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.gif"  height="619"/>
+
+### 子路由|登出
+
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/child%20route.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/child%20route.gif"  height="619"/>
+
+
 
 ## 项目目录结构
 
@@ -278,22 +282,23 @@ npm start
 		|--package.json    		# 配置文件
 		|--README.md	   		# 说明文档，markdown 格式
 
-	|--service/   # 后端工程总文件夹
+	|--service/   				# 后端工程总文件夹
 		|-bin/                  # 端口设置文件夹
 		|-model/                # 数据库配置文件夹
 		|--node_modules/        # 模块文件夹
 		|--public/			    # 静态文件夹（发布版静态文件）
 		|--routes/			    # 路由文件夹
-		|--app.js				# 入口文件
+		|--app.js			    # 入口文件
 		|--package.json         # 模块json文件
 ```
 
 
-补充:
-开发该应用的目的只为功能实现（不涉及代码规范及优化）,只为更深入的掌握和认识vue。
-项目的其他功能我会不定期更新,并及时和大家分享源码;
-我知道这一定不是最好的,但它一定是必须经历的,只有这样才能写出更优雅的代码。
-写完这个项目后让我对vue和编写项目的业务逻辑有了更深一层的认识。
-今天扒到了一个非常不错的大型vue实战案例,目前正在分析中,感觉vue真的是太强大了!里面的很多业务逻辑的实现方法
-是我没有在vue文档中看到的，即使看到可能也不知道它最合适的应用场景,这对我的帮助真的很大！
+**补充:**
+
+	1.开发该应用的目的只为功能实现（不涉及代码规范及优化）,只为更深入的掌握和认识vue。
+	2.项目的其他功能我会不定期更新,并及时和大家分享源码;
+	3.我知道这一定不是最好的,但它一定是必须经历的,只有这样才能写出更优雅的代码。
+	4.写完这个项目后让我对vue和编写项目的业务逻辑有了更深一层的认识。
+	5.今天扒到了一个非常不错的大型vue实战案例,目前正在分析中,感觉vue真的是太强大了!里面的很多业务逻辑的实现方法
+	6.是我没有在vue文档中看到的，即使看到可能也不知道它最合适的应用场景,这对我的帮助真的很大！
 
