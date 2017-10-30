@@ -3,7 +3,7 @@
 
 ### 商铺列表页
 
-<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.png" width="365" height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.gif" width="365" height="619"/>
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.png" width="365" height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.gif"  height="619"/>
 
 
 ### 商铺筛选页
