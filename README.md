@@ -3,12 +3,12 @@
 
 ### 首页加载
 
-<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.png" width="365" height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.gif" height="619"/>
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/home.png" width="365" height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/home.gif" height="619"/>
 
 
 ### 登录|注册
-<!--
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png"  height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/> -->
+
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.gif" width="365" height="619"/>
 
 
 # 掘金网移动端项目设计文档
