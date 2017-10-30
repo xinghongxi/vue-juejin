@@ -1,12 +1,12 @@
-# 部分截图
+# 产品部分截图
 
 
-### 商铺列表页
+### 首页加载
 
 <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.png" width="365" height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.gif" height="619"/>
 
 
-### 商铺筛选页
+### 登录|注册
 <!--
 <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png"  height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/> -->
 
