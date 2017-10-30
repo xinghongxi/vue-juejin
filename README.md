@@ -3,12 +3,12 @@
 
 ### 商铺列表页
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.gif" width="365" height="619"/>
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.png" width="365" height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/gif/home.gif" width="365" height="619"/>
 
 
 ### 商铺筛选页
-
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/>
+<!--
+<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/> -->
 
 
 # 掘金网移动端项目设计文档
