@@ -8,7 +8,7 @@
 
 ### 登录|注册
 
-<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.gif" width="365" height="619"/>
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.gif"  height="619"/>
 
 
 # 掘金网移动端项目设计文档
