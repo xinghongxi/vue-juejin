@@ -1,3 +1,16 @@
+# 部分截图
+
+
+### 商铺列表页
+
+<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.gif" width="365" height="619"/>
+
+
+### 商铺筛选页
+
+<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png" width="365" height="619"/> <img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/>
+
+
 # 掘金网移动端项目设计文档
 
 项目名称：掘金网（移动端）应用的基础功能实现
