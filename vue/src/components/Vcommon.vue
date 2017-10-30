@@ -8,7 +8,7 @@
                               <span>{{article.time}}</span>
                         </div>
                         <div class="over" v-if='article.img'>
-                              <img class="img2" :src='article.img' width="354"  alt="" />
+                              <img class="img2" :src='article.img' width="100%"  alt="" />
                         </div>
                         <h3>{{article.title}}</h3>
                         <p>{{article.text}}</p>
@@ -81,10 +81,11 @@ import $ from 'jquery'
       .fl{float: left;}
       .fr{float: right;}
       .img1{border-radius: 50%;vertical-align: middle;}
+      .img2{vertical-align: middle;}
       .span{margin-left: 10px}
-      li{list-style: none;margin-top: 22px;width:354px;margin: 0 auto;text-overflow: clip;padding-bottom: 70px;border-bottom: 1px solid hsla(0,0%,59%,.1);}
+      li{list-style: none;margin-top: 22px;width:90%;margin: 0 auto;text-overflow: clip;padding-bottom: 70px;border-bottom: 1px solid hsla(0,0%,59%,.1);}
       *{margin: 0 ;padding: 0}
-      ul{background: #fff}
+      ul{background: #fff;width: 100%}
       .one{line-height: 60px}
       h3{color: #000;font-size: 24px;padding-bottom: 10px}
       p{font-size: 16px;max-height: 24px;overflow: hidden;}
@@ -93,6 +94,6 @@ import $ from 'jquery'
       td img{margin-right: 6px;vertical-align: middle;margin-bottom:2px }
       td a{text-decoration: none;font-size: 12px;padding:0 10px;color:  rgba(24,37,50,.3)}
       .table2{margin-left: 10px}
-      .dep{color:  rgba(24,37,50,.3);font-size: 12px;margin-top: 14px;}
-      .over{width: 354px;height: 118px ;overflow: hidden;margin-bottom: 20px;border-radius: 3px;}
+      .dep{color:  rgba(24,37,50,.3);font-size: 12px;margin-top: 14px;margin-right: 5px}
+      .over{height: 118px ;overflow: hidden;margin-bottom: 20px;border-radius: 3px;}
 </style>
