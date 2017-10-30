@@ -245,13 +245,13 @@
 		|--README.md	   		# 说明文档，markdown 格式
 
 	|--service/   # 后端工程总文件夹
-		|-bin/           # 端口设置文件夹
-		|-model/           # 数据库配置文件夹
-		|--node_modules/    # 模块文件夹
-		|--public/			# 静态文件夹（发布版静态文件）
-		|--routes/			# 路由文件夹
+		|-bin/                  # 端口设置文件夹
+		|-model/                # 数据库配置文件夹
+		|--node_modules/        # 模块文件夹
+		|--public/			    # 静态文件夹（发布版静态文件）
+		|--routes/			    # 路由文件夹
 		|--app.js				# 入口文件
-		|--package.json     # 模块json文件
+		|--package.json         # 模块json文件
 ```
 
 
