@@ -10,6 +10,27 @@
 
 <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/login.gif"  height="619"/>
 
+### 子路由|登出
+
+<img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/child%20route.png"  height="619"/> <img src="https://github.com/xinghongxi/vue-juejin/blob/master/vue/screen%20capture/child%20route.gif"  height="619"/>
+
+
+## 项目运行
+
+```
+git clone https://github.com/xinghongxi/vue-juejin.git
+
+创建Mysql数据库名：vue-jj 导入数据表
+
+cd vue
+
+npm run dev
+
+打开新的终端窗口 cd service
+
+npm start
+
+```
 
 # 掘金网移动端项目设计文档
 
