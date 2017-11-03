@@ -228,9 +228,13 @@ git clone https://github.com/xinghongxi/vue-juejin.git
 
 cd vue/
 
+npm install
+
 npm run dev
 
 打开新的终端窗口 cd service/
+
+npm install
 
 npm start
 
